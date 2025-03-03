@@ -1,4 +1,4 @@
-#cpp code analyzer
+## cpp code analyzer
 
 This is a fairly simple program for finding vulnerabilities in the form of unsafe functions in the source code.
 
@@ -17,8 +17,8 @@ This is a fairly simple program for finding vulnerabilities in the form of unsaf
 1. 'test.cpp' - source file with vulnerable code.
 2. 'test1.cpp' - another source file with vulnerable code.
 
-## vulnerabilities in test files commented. 
+    vulnerabilities in test files commented. 
 
-program run example:
+## Program run example:
 
 ./main.exe <filename.cpp>
